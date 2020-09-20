@@ -38,7 +38,7 @@ public class SimpleSearchTest {
     }
 
     /**
-     * 判断索引是否存在
+     * 判断索引是否存在，不存在会直接进行创建
      */
     @Test
     public void IndexIsExist() {
